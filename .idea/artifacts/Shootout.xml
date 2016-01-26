@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Shootout">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shootout</output-path>
+    <root id="archive" name="Shootout.jar">
+      <element id="module-output" name="NinjaRun" />
+      <element id="library" level="project" name="LWJGL" />
+      <element id="library" level="project" name="Slick2D" />
+    </root>
+  </artifact>
+</component>

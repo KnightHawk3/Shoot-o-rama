@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="34" height="12" tilewidth="16" tileheight="16" backgroundcolor="#8686ff" nextobjectid="23">
+ <tileset firstgid="1" name="Fantasy" tilewidth="16" tileheight="16" tilecount="1000" columns="40">
+  <image source="../Sprites/fantasy.png" width="640" height="400"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="34" height="12">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3SSQ6CQBCF4QIPoEijXgmVyzicRZyAmzgPN3FGj+C/aBI3usIQkn7Jl0pqU29RIiZlj7JFPLvoFiYm+WfEX4cYY4IpZpgjQowEviXS1vwf89vuU0frItAW3FhihTU22GKHPQ44omflq48BhtqJG2dccMUNdzyQ4onXH3pksh7VikgNDupwoeChgSZaeAOi2A1YYAYAAA==
+  </data>
+ </layer>
+</map>
