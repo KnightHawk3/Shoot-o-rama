@@ -6,47 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43a244df-2cd0-423e-b626-44fd06df834b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Sprites/fantasy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Sprites/hero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Shootout/Shootout.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NinjaRun/Blue/Melody/Collidable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NinjaRun/Blue/Melody/Drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NinjaRun/Blue/Melody/Entity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NinjaRun/Blue/Melody/Game.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NinjaRun/Blue/Melody/GameOver.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NinjaRun/Blue/Melody/GameWon.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NinjaRun/Blue/Melody/Hero.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NinjaRun/Blue/Melody/Level.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NinjaRun/Blue/Melody/NinjaRun$STATES.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NinjaRun/Blue/Melody/NinjaRun.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Shootout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Melody.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/LWJGL.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Slick2D.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NinjaRun.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Levels/Fantasy.tmx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blue/Melody/Collidable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blue/Melody/Drawable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blue/Melody/Entity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blue/Melody/Game.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blue/Melody/GameOver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blue/Melody/GameWon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blue/Melody/Hero.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blue/Melody/Level.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Blue/Melody/NinjaRun.java" />
-    </list>
+    <list default="true" id="43a244df-2cd0-423e-b626-44fd06df834b" name="Default" comment="" />
     <ignored path="NinjaRun.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
